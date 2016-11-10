@@ -1,0 +1,1 @@
+{    "title":"Aquarium Device",    "description":"This template builds an app that traces \"Hello, World!\" and breaks into the debugger.",    "id":"aquarium.device.app",    "tags":[        "emptySample"    ],    "Create":{        "main":"main"    },    "Element":{        "main":"main"    }}

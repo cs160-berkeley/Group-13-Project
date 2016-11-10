@@ -1,0 +1,17 @@
+{
+    "title":"Aquarium Companion",
+    "description":"This template builds an app that traces \"Hello, World!\" and breaks into the debugger.",
+    "id":"aquarium.companion.app",
+    "tags":[
+        "emptySample"
+    ],
+    "Create":{
+        "main":"main"
+    },
+    "Element":{
+        "main":"main"
+    },
+    "iap140": {
+        "main":"main"
+    }
+}
